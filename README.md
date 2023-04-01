@@ -7,3 +7,5 @@ TechStack:
 - NextJS
 - TailwindCSS
 - GPT-3
+
+Try it out: https://resume-sidekick.vercel.app/
