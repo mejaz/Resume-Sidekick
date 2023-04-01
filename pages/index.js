@@ -108,7 +108,7 @@ export default function Home() {
 						</div>
 					</div>
 				</div>
-				<div className={"flex justify-between max-w-5xl mx-auto items-center py-4 border-t-2"}>
+				<div className={"flex justify-between max-w-5xl mx-auto items-center py-4 border-t-2 px-5"}>
 					<div className={"text-sm uppercase text-purple-500"}>all rights reserved 2023 &#169;</div>
 					<Link href={"https://github.com/mejaz/Resume-Sidekick"} target={"_blank"}>
 						<img src={"/github-mark.svg"} alt={"github-repo"} className={"w-7 h-7"}/>
